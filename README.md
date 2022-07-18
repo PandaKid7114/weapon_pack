@@ -1,2 +1,2 @@
 # Weaponary
-# A mod that adds weapons to the game!
+# Datapack that adds weapons to the game!
