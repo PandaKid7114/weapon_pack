@@ -1,2 +1,2 @@
 # Weaponary
-A pack that adds new "weapons" to minecraft.
+# A mod that adds weapons to the game!
